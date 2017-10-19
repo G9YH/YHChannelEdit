@@ -1,0 +1,2 @@
+# YHChannelEdit
+重写GridView实现仿今日头条的频道编辑页
